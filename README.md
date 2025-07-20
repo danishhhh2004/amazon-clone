@@ -1,3 +1,3 @@
 # amazon-clone
 This is my first project.<br>
-Author - Danish Shaikh
+Author - Danish Ibrahim Shaikh
